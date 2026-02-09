@@ -10,7 +10,7 @@ My name is Liam and I'm excited to show you my personal README!
 I'm based out of Winnipeg, love gaming, and philosophy. I also love to journal and write articles, one of which was featured in an A.I. magazine!
 
 ### Work
-I'm a Software Developer with a passion for Python. Currently my primary language is in Typescript.
+I'm a Software Developer with a passion for Python. Currently my primary language is in PHP and TypeScript.
 
 ## Ways of working together
 I prefer working in agile teams, especially when combined with software like Jira and communicating with me can be done with Slack, Teams, or even Discord. 
@@ -20,6 +20,9 @@ I love writing code in Python!
 
 ### Actively working with:
 * Python3
+* PHP
+* Laravel
+* Vue3
 * Angular 12
 * Typescript
 * Flask
@@ -28,7 +31,6 @@ I love writing code in Python!
 * Git & Github
 
 ### Worked with in the past
-* Laravel & PHP
 * Shopify
 * NextJS
 * C#
